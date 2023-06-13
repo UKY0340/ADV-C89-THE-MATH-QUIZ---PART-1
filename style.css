@@ -2,7 +2,8 @@ body{
     background:rgba(54, 143, 220, 0.488);
     }
 
-    #player1_login,#player2_login{
+    #player1_login,#player2_login
+    {
 
         display: inline-block;
         margin-left: 20px;
@@ -10,3 +11,12 @@ body{
         
         
         }
+        #output {
+
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding:10px;
+float: none;
+text-align: left;
+   }
